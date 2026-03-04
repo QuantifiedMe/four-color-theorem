@@ -28,8 +28,8 @@ curated library of mathematically significant examples.
 |---|---|
 | **Graph Library** | A modular pipeline that parses the 633 RSST unavoidable configurations and 19 Kempe counterexample graphs into a unified pickle file. Extensible via "daughter modules." |
 | **Coloring Animations** | Manim scenes that animate Greedy, DSATUR, Smallest-Last, and Random coloring heuristics on any graph in the library, complete with a Voronoi duality prologue and real-time HUD. |
-| **Kempe Proof Animations** | Step-by-step animated proofs of the Kempe chain argument for degree-3, 4, and 5 vertices, culminating in Heawood's 1890 counterexample showing where Kempe's original proof fails. |
-| **Discharging Module** | Animated demonstration of the discharging method used by Robertson–Sanders–Seymour–Thomas (1997) to prove unavoidability of their 633 configurations. |
+| **Kempe Proof Animations** | Step-by-step animated proofs of the Kempe chain argument for degree-3, 4, and 5 vertices, culminating in Heawood's 1890 counterexample showing where Kempe's original proof fails. Still in progress |
+| **Discharging Module** | Animated demonstration of the discharging method used by Robertson–Sanders–Seymour–Thomas (1997) to prove unavoidability of their 633 configurations. Still in progress |
 | **Video Tools** | Utility scripts to combine per-algorithm videos side-by-side for comparison. |
 
 
