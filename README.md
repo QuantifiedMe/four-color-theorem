@@ -1,8 +1,11 @@
 # Four Color Theorem — Animated Exploration
 
-**Author:** Tanya Wilcox
-**Institution:** Wilkes University
-**Course:** MTH-392 — Senior Project in Computational Mathematics, Spring 2026
+**Author:** Tanya Wilcox  
+
+**Institution:** Wilkes University  
+
+**Course:** MTH-392 — Senior Project in Computational Mathematics, Spring 2026  
+
 
 ---
 
