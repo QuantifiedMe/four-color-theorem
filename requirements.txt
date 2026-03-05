@@ -1,0 +1,22 @@
+# ===========================================================================
+# requirements.txt  —  Four Color Theorem Project
+# ===========================================================================
+#
+# Install:  pip install -r requirements.txt
+#
+# Note: Manim has its own system-level dependencies (LaTeX, ffmpeg, cairo).
+# See https://docs.manim.community/en/stable/installation.html
+# ===========================================================================
+
+# --- Core dependencies (all modules) ---
+networkx>=3.0
+numpy>=1.24
+
+# --- Animation rendering ---
+manim>=0.18.0
+
+# --- Optional: Voronoi duality prologue (new_manim_scene.py) ---
+scipy>=1.10
+
+# --- Optional: video combining (combine_algorithm_videos.py) ---
+# Requires ffmpeg and ffprobe on PATH (not a pip package).
